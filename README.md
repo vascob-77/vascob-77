@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_vasco" target="blank"><img src="https://img.shields.io/twitter/follow/dev_vasco?logo=twitter&style=for-the-badge" alt="dev_vasco" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](sonn..)
+- 🔭 I’m currently working on my portfolio 
 
 - 🌱 I’m currently learning **TypeScript & Algorithms**
 
