@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Algorithms**
 
-- 💬 Ask me about **React,NextJS,TanStack Query,Prisma,Gsap**
+- 💬 Ask me about **React, NextJS, TanStack Query, Prisma, Gsap**
 
 - 📫 How to reach me **vascbarreiros@gmail.com**
 
