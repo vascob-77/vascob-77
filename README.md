@@ -19,5 +19,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vascob-77&show_icons=true&locale=en&layout=compact" alt="vascob-77" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vascob-77&show_icons=true&locale=en" alt="vascob-77" /></p>
