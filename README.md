@@ -3,7 +3,7 @@
 <img align="right" alt="Coding Gif" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 Currently deepening expertise in **Cybersecurity**, focusing on recon, web vulns & OWASP Top 10  
-- 💼 Architecting scalable SPAs with **React**, **Next.js** & **TypeScript**, using **Context API**, **Redux** or **Recoil**  
+- 💼 Architecting scalable SPAs with **React**, **Next.js** & **TypeScript**
 - 🧪 Ensuring code reliability with **Jest**, **React Testing Library**, and enforcing standards via **ESLint** & **Prettier**  
 - 📚 Documenting UI components in **Storybook** for seamless collaboration and design consistency  
 - 🐳 Containerizing applications with **Docker** and automating deliverables through **GitHub Actions** CI/CD  
