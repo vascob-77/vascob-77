@@ -49,7 +49,7 @@ I don't just build websites; I craft digital experiences. I bridge the gap betwe
   <h3>READY TO SHIP?</h3>
   <p>Looking for a developer who speaks design? Let's talk.</p>
   
-  <a href="mailto:hello@vasco.dev">
+  <a href="mailto:hello@vasco-barreiros.fr">
     <img src="https://img.shields.io/badge/Email-hello%40vasco.dev-black?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/vasco-barreiros">
