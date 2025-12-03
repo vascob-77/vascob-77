@@ -55,7 +55,7 @@ I don't just build websites; I craft digital experiences. I bridge the gap betwe
   <a href="https://linkedin.com/in/vasco-barreiros">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://vasco.dev">
+  <a href="https://vasco-barreiros.fr">
     <img src="https://img.shields.io/badge/Portfolio-vasco.dev-blueviolet?style=flat-square&logo=safari&logoColor=white" alt="Website" />
   </a>
 </div>
